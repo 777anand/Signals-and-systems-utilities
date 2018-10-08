@@ -4,7 +4,7 @@ from array import *
 import operator
 import cmath
 
-print "Please tell if you want to calculate Fourier Transform for : \n 1. if you want to provide data points or, \n 2. a given function."
+print "Please tell if you want to calculate Fourier Transform  : \n 1. if you want to provide data points or, \n 2. a given function."
 choice=int(raw_input())
 
 if choice == 1 :
